@@ -1,0 +1,2 @@
+a = rakesh
+print(a)
